@@ -237,6 +237,7 @@ margin-top: 128px;
 .bonus-section{
     margin-top: 128px;
     text-align: center;
+    padding-top: 60px;
 }
 .bonus-section-image-container{
     display: flex;
