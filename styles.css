@@ -246,10 +246,55 @@ margin-top: 128px;
 }
 .bonus-section-container{
     width: 1922px;
-    height: 620px;
+    height:750px;
+   
     flex-shrink: 0;
     border-radius: 8px;
 background: rgba(229, 84, 115, 0.05);
 }
 
+/* This is last section of Main */
 
+
+.sixth-section-container{
+    width: 1440px;
+height: 449px;
+
+background-image: url("./images/Rectangle\ 9.png");
+margin: 0 auto;
+margin-top: 128px;
+text-align: center;
+
+}
+.input-container{
+    display: flex;
+    gap:20px;
+    padding: 45px 453px 121px 287px;
+    
+}
+.input-field input{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border: 0px;
+padding-left: 20px;
+
+}
+.button-field{
+   margin-top: -40px;
+}
+#six-heading{
+    padding-top: 150px;
+}
+#six{
+    padding-left: 420px;
+}
