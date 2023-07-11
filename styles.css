@@ -233,4 +233,23 @@ margin-top: 128px;
     padding-top: 50px;
 }
 
+/* This is bonus section */
+.bonus-section{
+    margin-top: 128px;
+    text-align: center;
+}
+.bonus-section-image-container{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    padding-top: 50px;
+}
+.bonus-section-container{
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
+
 
