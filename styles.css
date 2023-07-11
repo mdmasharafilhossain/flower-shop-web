@@ -220,4 +220,17 @@ margin-top: 128px;
    color: #E55473;
 }
 
+/* This is fifth section */
+
+.fifth-section{
+    margin-top: 128px;
+    text-align: center;
+}
+.fifth-section-image-container{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    padding-top: 50px;
+}
+
 
